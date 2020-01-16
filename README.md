@@ -1,1 +1,1 @@
-# This is my solution of PAT Class A
+# This is my solution for PAT Class A
