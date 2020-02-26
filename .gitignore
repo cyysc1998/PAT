@@ -1,0 +1,6 @@
+code/a.exe
+code/makefile
+.vscode
+*.bat
+*.bak
+*.exe
