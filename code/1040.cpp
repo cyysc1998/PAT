@@ -17,5 +17,6 @@ int main(void) {
             }
         }
     }
+    cout << len << endl;
     return 0;
 }
