@@ -39,7 +39,7 @@ int main(void) {
         bool flag = false;
         int count = 0;
         for(int i=0; i<N; i++) {
-            if(peos[i].age >= Amin && peos[i].age < Amax) {
+            if(peos[i].age >= Amin && peos[i].age <= Amax) {
                 cout << peos[i].name << " " << peos[i].age << " " << peos[i].worth << endl;
                 flag = true;
                 count++;
